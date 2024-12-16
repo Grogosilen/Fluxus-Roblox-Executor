@@ -24,14 +24,15 @@
 
 Getting started with Fluxus Executor is quite simple. Follow step by step to get this tool installed:
 
-1. **Install from Link up below**.
-2. **Extract**: Unzip the download file to a convenient location.
+1. **Install Fluxus Executor**.
+2. **Extract**: Unzip the downloaded file to a convenient location.
 3. **Run and Explore**: Open FluxuScript, load launcher and wait until scripts upload.
+4. Enjoy your experience!
 
 ---
 
 FluxusExecutor is more than just a tool—it’s your gateway to creativity, innovation, and limitless fun. Install it and elevate your Roblox adventures.
-
+**Compatible with all operating systems except Windows XP, Vista**
 ---
 
 **FluxusExecutor: Unlock your creativity in Roblox.**

